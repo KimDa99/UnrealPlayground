@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Playground.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\KimDa\Desktop\UnrealPlayground\Playground\Intermediate\Build\Win64\PlaygroundEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\KimDa\Desktop\UnrealPlayground\Playground\Intermediate\Build\Win64\UnrealEditor\Development\Playground\Playground.cpp.obj"
+"C:\Users\KimDa\Desktop\UnrealPlayground\Playground\Intermediate\Build\Win64\UnrealEditor\Development\Playground\PlaygroundGameModeBase.cpp.obj"
+"C:\Users\KimDa\Desktop\UnrealPlayground\Playground\Intermediate\Build\Win64\UnrealEditor\Development\Playground\Playground.init.gen.cpp.obj"
+"C:\Users\KimDa\Desktop\UnrealPlayground\Playground\Intermediate\Build\Win64\UnrealEditor\Development\Playground\PlaygroundGameModeBase.gen.cpp.obj"
+"C:\Users\KimDa\Desktop\UnrealPlayground\Playground\Intermediate\Build\Win64\UnrealEditor\Development\Playground\Default.rc2.res"
+/OUT:"C:\Users\KimDa\Desktop\UnrealPlayground\Playground\Intermediate\Build\Win64\UnrealEditor\Development\Playground\UnrealEditor-Playground.lib"

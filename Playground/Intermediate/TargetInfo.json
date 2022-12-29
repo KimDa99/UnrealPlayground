@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Playground",
+			"Path": "C:\\Users\\KimDa\\Desktop\\UnrealPlayground\\Playground\\Source\\Playground.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PlaygroundEditor",
+			"Path": "C:\\Users\\KimDa\\Desktop\\UnrealPlayground\\Playground\\Source\\PlaygroundEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
